@@ -1,0 +1,1 @@
+tiaoshi ['../src/experiment', '-l../lib/veins/src/veins', '-n../src;../lib/veins/src/veins;.', '--image-path=../lib/veins/images', '-uCmdenv', '-cGeneral', '--seed-set=0', '--*.manager.seed=0', '--*.gym_connection.port=36681']
